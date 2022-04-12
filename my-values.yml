@@ -1,5 +1,5 @@
 Config:
-  Value1: some-val
-  Value2: another-val-2
-  Value3: another-val-3
-  Value4: another-val-4
+  Value1: 1
+  Value2: 2
+  Value3: 3
+  Value4: 4
